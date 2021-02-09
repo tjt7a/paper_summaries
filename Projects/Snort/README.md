@@ -4,13 +4,14 @@
 
 ### Articles
 
-1. **Algorithmic Complexity Vulnerabilities: An Introduction**
+
+1. [**Algorithmic Complexity Vulnerabilities: An Introduction**]("./Summaries/Articles/1. Algorithmic Complexity Vulnerabilities: An Introduction.md")
 
     https://www.twosixlabs.com/algorithmic-complexity-vulnerabilities-an-introduction
 
 ### Papers
 
-1. **Denial of Service via Algorithmic Complexity Attacks**
+1. [**Denial of Service via Algorithmic Complexity Attacks**]("./Summaries/Papers/1. Denial of Service via Algorithmic Complexity Attacks.md")
 
     https://www.usenix.org/legacy/events/sec03/tech/full_papers/crosby/crosby_html/
 
