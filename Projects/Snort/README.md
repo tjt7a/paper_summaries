@@ -1,21 +1,18 @@
 # Paper Summaries for the Snort Project
 
-## Done 
+## Completed Summaries 
 
 ### Articles
 
+1. <h3><a href="https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Articles/1.%20Algorithmic%20Complexity%20Vulnerabilities:%20An%20Introduction.md">Algorithmic Complexity Vulnerabilities: An Introduction</a></h3>
 
-1. [**Algorithmic Complexity Vulnerabilities: An Introduction**]("https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Articles/1.%20Algorithmic%20Complexity%20Vulnerabilities:%20An%20Introduction.md")
-
-    https://www.twosixlabs.com/algorithmic-complexity-vulnerabilities-an-introduction
 
 ### Papers
 
-1. [**Denial of Service via Algorithmic Complexity Attacks**]("https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Papers/1.%20Denial%20of%20Service%20via%20Algorithmic%20Complexity%20Attacks.md")
+1. <h3><a href="https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Papers/1.%20Denial%20of%20Service%20via%20Algorithmic%20Complexity%20Attacks.md">Denial of Service via Algorithmic Complexity Attacks</a></h3>
 
-    https://www.usenix.org/legacy/events/sec03/tech/full_papers/crosby/crosby_html/
 
-## Todo
+## Summaries in Progress
 
 ### Projects
 
@@ -35,7 +32,6 @@
 
     https://ieeexplore.ieee.org/abstract/document/7393623
 
-4. 
 
 ### Dissertations and Theses
 
