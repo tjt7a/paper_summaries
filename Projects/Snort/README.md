@@ -12,14 +12,11 @@
 1. <h3><a href="https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Papers/1.%20Denial%20of%20Service%20via%20Algorithmic%20Complexity%20Attacks.md">Denial of Service via Algorithmic Complexity Attacks</a></h3>
 
 
-## Summaries in Progress
-
 ### Projects
 
-1. **OWASP: Regular expression Denial of Service - ReDoS**
+1. <h3><a href="https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Projects/1.%20Regular%20expression%20Denial%20of%20Service%20-%20ReDoS.md"> OWASP: Regular expression Denial of Service - ReDoS</a></h3>
 
-    https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS
-
+## Summaries in Progress
 
 ### Papers
 
