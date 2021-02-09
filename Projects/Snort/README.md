@@ -5,13 +5,13 @@
 ### Articles
 
 
-1. [**Algorithmic Complexity Vulnerabilities: An Introduction**]("./Summaries/Articles/1. Algorithmic Complexity Vulnerabilities: An Introduction.md")
+1. [**Algorithmic Complexity Vulnerabilities: An Introduction**]("https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Articles/1.%20Algorithmic%20Complexity%20Vulnerabilities:%20An%20Introduction.md")
 
     https://www.twosixlabs.com/algorithmic-complexity-vulnerabilities-an-introduction
 
 ### Papers
 
-1. [**Denial of Service via Algorithmic Complexity Attacks**]("./Summaries/Papers/1. Denial of Service via Algorithmic Complexity Attacks.md")
+1. [**Denial of Service via Algorithmic Complexity Attacks**]("https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Papers/1.%20Denial%20of%20Service%20via%20Algorithmic%20Complexity%20Attacks.md")
 
     https://www.usenix.org/legacy/events/sec03/tech/full_papers/crosby/crosby_html/
 

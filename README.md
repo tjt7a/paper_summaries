@@ -3,4 +3,4 @@ This repository contains summaries of papers relevant for projects I'm working o
 
 ## Projects
 
-### [Snort]("./Projects/Snort")
+### [Snort]("https://github.com/tjt7a/paper_summaries/tree/main/Projects/Snort")
