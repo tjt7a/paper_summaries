@@ -11,7 +11,7 @@
 
 1. <h3><a href="https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Papers/1.%20Denial%20of%20Service%20via%20Algorithmic%20Complexity%20Attacks.md">Denial of Service via Algorithmic Complexity Attacks</a></h3>
 
-2. <h3><a href="https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Papers/2.%20MCA2:%Multi-Core%Architecture%20for%20Mitigating%20Complexity%20Attacks.md">MCA2: Multi-Core Architecture for Mitigating Complexity Attacks</a></h3>
+2. <h3><a href="https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Papers/2.%20MCA2:%20Multi-Core%20Architecture%20for%20Mitigating%20Complexity%20Attacks.md">MCA2: Multi-Core Architecture for Mitigating Complexity Attacks</a></h3>
 
 ### Projects
 
