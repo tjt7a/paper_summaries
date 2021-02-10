@@ -11,6 +11,7 @@
 
 1. <h3><a href="https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Papers/1.%20Denial%20of%20Service%20via%20Algorithmic%20Complexity%20Attacks.md">Denial of Service via Algorithmic Complexity Attacks</a></h3>
 
+2. <h3><a href="https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Papers/2.%20MCA2:%Multi-Core%Architecture%20for%20Mitigating%20Complexity%20Attacks.md">MCA2: Multi-Core Architecture for Mitigating Complexity Attacks</a></h3>
 
 ### Projects
 
@@ -20,11 +21,6 @@
 
 ### Papers
 
-
-2. **MCA2: Multi-Core Architecture for Mitigating Complexity Attacks**
-
-    https://ieeexplore.ieee.org/document/7846702
-
 3. **Making DPI Engines Resilient to Algorithmic Complexity Attacks**
 
     https://ieeexplore.ieee.org/abstract/document/7393623
@@ -32,8 +28,7 @@
 
 ### Dissertations and Theses
 
-1. **On the Vulnerability of Network Mechanisms to Sophisticated
-Attacks**
+1. **On the Vulnerability of Network Mechanisms to Sophisticated Attacks**
 
     https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/91062/1/eth-46991-01.pdf
 
