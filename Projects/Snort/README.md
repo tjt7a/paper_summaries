@@ -13,6 +13,9 @@
 
 2. <h3><a href="https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Papers/2.%20MCA2:%20Multi-Core%20Architecture%20for%20Mitigating%20Complexity%20Attacks.md">MCA2: Multi-Core Architecture for Mitigating Complexity Attacks</a></h3>
 
+3. <h3><a href="https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Papers/3.%20Rethinking%20Regex%20Engines%20to%20Address%20ReDoS.md">Rethinking Regex Engines to Address ReDoS</a></h3>
+
+
 ### Projects
 
 1. <h3><a href="https://github.com/tjt7a/paper_summaries/blob/main/Projects/Snort/Summaries/Projects/1.%20Regular%20expression%20Denial%20of%20Service%20-%20ReDoS.md"> OWASP: Regular expression Denial of Service - ReDoS</a></h3>
@@ -24,6 +27,15 @@
 3. **Making DPI Engines Resilient to Algorithmic Complexity Attacks**
 
     https://ieeexplore.ieee.org/abstract/document/7393623
+
+4. **How to Test an IDS? GENESIDS: An Automated System for Generating Attack Traffic**
+
+    https://dl.acm.org/doi/abs/10.1145/3229598.3229601?casa_token=5RaO7uZzm2cAAAAA:m3VpSpitDKiZZbt5wjt5I6KM8JD58NwH2Hm8baTnAkWcbehr4CBNfFHGpBU2OqeUuNP8rcxsf-9o
+
+5. **ReScue: Crafting Regular Expression DoS Attacks∗**
+
+    https://ieeexplore.ieee.org/abstract/document/9000038?casa_token=uObxNlzpttgAAAAA:2veyhCGIv4dRAQdBGe8HBLPYs-2MofsVBz9OfSh4Sjz2D2lDntxBA9NRU6IIRESNRp48rwYe9A
+
 
 
 ### Dissertations and Theses
