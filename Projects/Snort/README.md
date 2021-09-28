@@ -36,6 +36,18 @@
 
     https://ieeexplore.ieee.org/abstract/document/9000038?casa_token=uObxNlzpttgAAAAA:2veyhCGIv4dRAQdBGe8HBLPYs-2MofsVBz9OfSh4Sjz2D2lDntxBA9NRU6IIRESNRp48rwYe9A
 
+6. **Static Analysis for Regular Expression Exponential Runtime via Substructural Logics**
+
+    http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.748.7825&rep=rep1&type=pdf
+
+7. **The Impact of Regular Expression Denial of Service (ReDoS) in Practice: An Empirical Study at the Ecosystem Scale**
+
+    https://dl.acm.org/doi/pdf/10.1145/3236024.3236027?casa_token=rxtKwloJ-t0AAAAA:q4T2J8MIq4QJXni-soD9knskeT4dSA7Y9-aZ7hxaPf7ZmcXoyMJPS0JzFqDaIIZQcYULkTdj4n2V
+
+8. **Bypassing Space Explosion in High-Speed Regular Expression Matching**
+
+    https://ieeexplore.ieee.org/document/6807837
+
 
 
 ### Dissertations and Theses

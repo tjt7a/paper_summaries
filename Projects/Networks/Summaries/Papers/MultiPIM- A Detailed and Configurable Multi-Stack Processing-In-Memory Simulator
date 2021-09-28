@@ -1,0 +1,11 @@
+MultiPIM: A Detailed and Configurable Multi-Stack Processing-In-Memory Simulator
+
+Authors: Chao Yu, Shihang Liu, Samira Khan
+
+Motivation
+
+Processing-in-Memory (PIM) is being studied as a solution to overcoming the memory wall problem. There is an urgent need for a PIM simulation infrastructure to help researchers study problems and new mechanisms.
+
+Existing PIM simulators do not consider architectural details and the programming interface that are necessary for a practical PIM system.
+
+MultiPIM is a PIM simulator that models microarchitectural details that stem from supportng multiple memory stacks and massively-parallel PIM cores.
